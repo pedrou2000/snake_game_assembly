@@ -45,12 +45,11 @@ mount C: <road_to_downloaded_project>
 ```
 
 
-The project includes all the executables needed by DOSBox to compile and run the code. Now we just have to compile the code, install the drivers for the game to work and run the game. Run the following commands:
+Now we just have to install the drivers for the game to work and run the game. Run the following commands:
 
 ```console
 C:
 cd snake
-make all
 drivers.com /I
 snake.exe
 ```
