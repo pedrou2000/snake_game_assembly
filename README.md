@@ -1,4 +1,4 @@
-# Ssnake Multiplayer Game using Assembly Language
+# Snake Multiplayer Game using Assembly Language
 
 ## 1. Description of the Project
 
