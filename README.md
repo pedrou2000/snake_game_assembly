@@ -53,7 +53,7 @@ DRIVERS.COM /I
 SNAKE.EXE
 ```
 
-If you want to modify the game and recompile it, you can use the Makefile and source code inside the `src` directorory. However, you have to make sure that you installed all the dependencies needed for compiling including `tlink`, `tasm` and `make`.
+If you want to modify the game and recompile it, you can use the Makefile and source code inside the `src` directory. However, you have to make sure that you installed all the dependencies needed for compiling including `tlink`, `tasm` and `make`.
 
 [//]: # "## 5. Extra Information"
 
