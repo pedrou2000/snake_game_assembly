@@ -39,22 +39,21 @@ The main purpose of this project is to create a completely usable multiplayer sn
 
 
 ## 2. How to Install and Run
-In order to play the game DOSBox emulator must be installed. After downloading the complete project, root of the project must be mounted using the command:
+In order to play the game DOSBox emulator must be installed. After downloading the complete project, root of the project must be mounted using the following commands.
 ```console
 mount C: <road_to_downloaded_project>
+C:
 ```
 
 
 Now we just have to install the drivers for the game to work and run the game. Run the following commands:
 
 ```console
-C:
-cd snake
-drivers.com /I
-snake.exe
+DRIVERS.COM /I
+SNAKE.EXE
 ```
 
-If you want to modify the game and recompile it, you can use the Makefile. However, you have to make sure that you installed all the dependencies needed for compiling including `tlink`, `tasm` and `make`.
+If you want to modify the game and recompile it, you can use the Makefile and source code inside the `src` directorory. However, you have to make sure that you installed all the dependencies needed for compiling including `tlink`, `tasm` and `make`.
 
 [//]: # "## 5. Extra Information"
 
