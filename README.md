@@ -54,6 +54,7 @@ drivers.com /I
 snake.exe
 ```
 
+If you want to modify the game and recompile it, you can use the Makefile. However, you have to make sure that you installed all the dependencies needed for compiling including `tlink`, `tasm` and `make`.
 
 [//]: # "## 5. Extra Information"
 
