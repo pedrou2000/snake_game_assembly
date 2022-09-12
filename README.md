@@ -61,5 +61,7 @@ If you want to modify the game and recompile it, you can use the Makefile and so
 ## 3. Screenshots
 ![Screenshot from 2022-09-12 10-57-04](https://user-images.githubusercontent.com/46072805/189566477-c35b000e-932b-46e7-be39-b998679f46f3.png)
 ![Screenshot from 2022-09-12 10-50-51](https://user-images.githubusercontent.com/46072805/189566443-18dd7d66-c401-46c3-a973-e52dec574e83.png)
+![Screenshot from 2022-09-12 10-51-12](https://user-images.githubusercontent.com/46072805/189566561-ef35533b-e275-4ddb-917c-cebbe7c1e815.png)
+![Screenshot from 2022-09-12 10-57-56](https://user-images.githubusercontent.com/46072805/189566566-d7070b90-e57d-4e3d-a03d-ca1f95569777.png)
 
 
